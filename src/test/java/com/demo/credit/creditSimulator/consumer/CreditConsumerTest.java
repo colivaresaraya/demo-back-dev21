@@ -22,7 +22,7 @@ public class CreditConsumerTest {
         });
 
     }
-
+/*
     //Check approve evaluation according range rules
     @Test
     public void testCase1_ok() {
@@ -58,7 +58,8 @@ public class CreditConsumerTest {
         //check evaluation that's correct
         assertThat(consumer.evaluate()).isFalse();
     }
-
+*/
+/*
     @Test
     public void testCase2_ok() {
         //check second range test case
@@ -87,7 +88,9 @@ public class CreditConsumerTest {
         assertThat(consumer.evaluate()).isFalse();
     }
 
+*/
 
+/*
 
 
     @Test
@@ -117,5 +120,5 @@ public class CreditConsumerTest {
         //check evaluation that's correct
         assertThat(consumer.evaluate()).isFalse();
     }
-
+*/
 }
