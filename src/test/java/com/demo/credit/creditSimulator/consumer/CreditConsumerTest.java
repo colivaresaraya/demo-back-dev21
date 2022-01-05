@@ -90,7 +90,7 @@ public class CreditConsumerTest {
 
 
 
-/*
+
 
 
     @Test
@@ -120,5 +120,5 @@ public class CreditConsumerTest {
         //check evaluation that's correct
         assertThat(consumer.evaluate()).isFalse();
     }
-*/
+
 }
